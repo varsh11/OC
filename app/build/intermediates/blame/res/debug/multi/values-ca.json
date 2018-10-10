@@ -1,0 +1,1755 @@
+[
+    {
+        "outputFile": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\values-ca\\values-ca.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 64,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 64,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 80,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2653,
+                        "endColumn": 80,
+                        "endOffset": 2729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 71,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2405,
+                        "endColumn": 71,
+                        "endOffset": 2472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 49,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2538,
+                        "endColumn": 49,
+                        "endOffset": 2583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 64,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2588,
+                        "endColumn": 64,
+                        "endOffset": 2648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 80,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2734,
+                        "endColumn": 80,
+                        "endOffset": 2810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 63,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2341,
+                        "endColumn": 63,
+                        "endOffset": 2400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 60,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2477,
+                        "endColumn": 60,
+                        "endOffset": 2533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 46,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 46,
+                        "endOffset": 1397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 51,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 90,
+                    "endOffset": 829
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3507,
+                        "endColumn": 90,
+                        "endOffset": 3593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 834,
+                    "endColumn": 197,
+                    "endOffset": 1027
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 201,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1032,
+                    "endColumn": 190,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2663,
+                        "endColumn": 194,
+                        "endOffset": 2853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 114,
+                    "endOffset": 1333
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2350,
+                        "endColumn": 114,
+                        "endOffset": 2460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1338,
+                    "endColumn": 280,
+                    "endOffset": 1614
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4619,
+                        "endColumn": 284,
+                        "endOffset": 4899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1619,
+                    "endColumn": 133,
+                    "endOffset": 1748
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 133,
+                        "endOffset": 2208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1753,
+                    "endColumn": 187,
+                    "endOffset": 1936
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1887,
+                        "endColumn": 191,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1941,
+                    "endColumn": 131,
+                    "endOffset": 2068
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1755,
+                        "endColumn": 131,
+                        "endOffset": 1882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2073,
+                    "endColumn": 172,
+                    "endOffset": 2241
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 176,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2246,
+                    "endColumn": 133,
+                    "endOffset": 2375
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 133,
+                        "endOffset": 1750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2380,
+                    "endColumn": 214,
+                    "endOffset": 2590
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1183,
+                        "endColumn": 218,
+                        "endOffset": 1397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2595,
+                    "endColumn": 214,
+                    "endOffset": 2805
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1402,
+                        "endColumn": 218,
+                        "endOffset": 1616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2810,
+                    "endColumn": 130,
+                    "endOffset": 2936
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 130,
+                        "endOffset": 1178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2941,
+                    "endColumn": 187,
+                    "endOffset": 3124
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3661,
+                        "endColumn": 187,
+                        "endOffset": 3844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3129,
+                    "endColumn": 123,
+                    "endOffset": 3248
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3537,
+                        "endColumn": 123,
+                        "endOffset": 3656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3253,
+                    "endColumn": 173,
+                    "endOffset": 3422
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 173,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3427,
+                    "endColumn": 185,
+                    "endOffset": 3608
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3351,
+                        "endColumn": 185,
+                        "endOffset": 3532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3613,
+                    "endColumn": 120,
+                    "endOffset": 3729
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3230,
+                        "endColumn": 120,
+                        "endOffset": 3346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3734,
+                    "endColumn": 188,
+                    "endOffset": 3918
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 188,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3923,
+                    "endColumn": 139,
+                    "endOffset": 4058
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 139,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4063,
+                    "endColumn": 200,
+                    "endOffset": 4259
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 5053,
+                        "endColumn": 200,
+                        "endOffset": 5249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4264,
+                    "endColumn": 148,
+                    "endOffset": 4408
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4904,
+                        "endColumn": 148,
+                        "endOffset": 5048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4413,
+                    "endColumn": 159,
+                    "endOffset": 4568
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3849,
+                        "endColumn": 159,
+                        "endOffset": 4004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4573,
+                    "endColumn": 273,
+                    "endOffset": 4842
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4136,
+                        "endColumn": 277,
+                        "endOffset": 4409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4847,
+                    "endColumn": 126,
+                    "endOffset": 4969
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 4009,
+                        "endColumn": 126,
+                        "endOffset": 4131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4974,
+                    "endColumn": 110,
+                    "endOffset": 5080
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4414,
+                        "endColumn": 110,
+                        "endOffset": 4520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5085,
+                    "endColumn": 193,
+                    "endOffset": 5274
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2465,
+                        "endColumn": 197,
+                        "endOffset": 2658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5279,
+                    "endColumn": 136,
+                    "endOffset": 5411
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2213,
+                        "endColumn": 136,
+                        "endOffset": 2345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5416,
+                    "endColumn": 227,
+                    "endOffset": 5639
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2998,
+                        "endColumn": 231,
+                        "endOffset": 3225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5644,
+                    "endColumn": 139,
+                    "endOffset": 5779
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2858,
+                        "endColumn": 139,
+                        "endOffset": 2993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5784,
+                    "endColumn": 93,
+                    "endOffset": 5873
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-ca\\common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4525,
+                        "endColumn": 93,
+                        "endOffset": 4614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5878,
+                    "endColumn": 51,
+                    "endOffset": 5925
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1403,
+                        "endColumn": 51,
+                        "endOffset": 1450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5930,
+                    "endColumn": 71,
+                    "endOffset": 5997
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3598,
+                        "endColumn": 71,
+                        "endOffset": 3665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 6002,
+                    "endColumn": 58,
+                    "endOffset": 6056
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2281,
+                        "endColumn": 58,
+                        "endOffset": 2335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6061,
+                    "endColumn": 53,
+                    "endOffset": 6110
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2017,
+                        "endColumn": 53,
+                        "endOffset": 2066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6115,
+                    "endColumn": 85,
+                    "endOffset": 6196
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2071,
+                        "endColumn": 85,
+                        "endOffset": 2152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6201,
+                    "endColumn": 62,
+                    "endOffset": 6259
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2157,
+                        "endColumn": 62,
+                        "endOffset": 2215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6264,
+                    "endColumn": 42,
+                    "endOffset": 6302
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1974,
+                        "endColumn": 42,
+                        "endOffset": 2012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6307,
+                    "endColumn": 52,
+                    "endOffset": 6355
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 3785,
+                        "endColumn": 52,
+                        "endOffset": 3833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6360,
+                    "endColumn": 59,
+                    "endOffset": 6415
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3838,
+                        "endColumn": 59,
+                        "endOffset": 3893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6420,
+                    "endColumn": 63,
+                    "endOffset": 6479
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3721,
+                        "endColumn": 63,
+                        "endOffset": 3780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6484,
+                    "endColumn": 69,
+                    "endOffset": 6549
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 69,
+                        "endOffset": 728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6554,
+                    "endColumn": 69,
+                    "endOffset": 6619
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3437,
+                        "endColumn": 69,
+                        "endOffset": 3502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6624,
+                    "endColumn": 98,
+                    "endOffset": 6718
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 98,
+                        "endOffset": 827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6723,
+                    "endColumn": 46,
+                    "endOffset": 6765
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endColumn": 46,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6770,
+                    "endColumn": 49,
+                    "endOffset": 6815
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3671,
+                        "endColumn": 49,
+                        "endOffset": 3716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6820,
+                    "endColumn": 60,
+                    "endOffset": 6876
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2220,
+                        "endColumn": 60,
+                        "endOffset": 2276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6881,
+                    "endColumn": 55,
+                    "endOffset": 6932
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1456,
+                        "endColumn": 55,
+                        "endOffset": 1507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6937,
+                    "endColumn": 55,
+                    "endOffset": 6988
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2923,
+                        "endColumn": 55,
+                        "endOffset": 2974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6993,
+                    "endColumn": 61,
+                    "endOffset": 7050
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3054,
+                        "endColumn": 61,
+                        "endOffset": 3111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7055,
+                    "endColumn": 52,
+                    "endOffset": 7103
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3180,
+                        "endColumn": 52,
+                        "endOffset": 3228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7108,
+                    "endColumn": 63,
+                    "endOffset": 7167
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3116,
+                        "endColumn": 63,
+                        "endOffset": 3175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7172,
+                    "endColumn": 74,
+                    "endOffset": 7242
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2979,
+                        "endColumn": 74,
+                        "endOffset": 3049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7247,
+                    "endColumn": 54,
+                    "endOffset": 7297
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1513,
+                        "endColumn": 54,
+                        "endOffset": 1563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7302,
+                    "endColumn": 53,
+                    "endOffset": 7351
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2815,
+                        "endColumn": 53,
+                        "endOffset": 2864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7356,
+                    "endColumn": 64,
+                    "endOffset": 7416
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1617,
+                        "endColumn": 64,
+                        "endOffset": 1677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7421,
+                    "endColumn": 49,
+                    "endOffset": 7466
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1682,
+                        "endColumn": 49,
+                        "endOffset": 1727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7471,
+                    "endColumn": 63,
+                    "endOffset": 7530
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1732,
+                        "endColumn": 63,
+                        "endOffset": 1791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7535,
+                    "endColumn": 64,
+                    "endOffset": 7595
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1909,
+                        "endColumn": 64,
+                        "endOffset": 1969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7600,
+                    "endColumn": 56,
+                    "endOffset": 7652
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1796,
+                        "endColumn": 56,
+                        "endOffset": 1848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7657,
+                    "endColumn": 55,
+                    "endOffset": 7708
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1853,
+                        "endColumn": 55,
+                        "endOffset": 1904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7713,
+                    "endColumn": 64,
+                    "endOffset": 7773
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3899,
+                        "endColumn": 64,
+                        "endOffset": 3959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7778,
+                    "endColumn": 51,
+                    "endOffset": 7825
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 51,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7830,
+                    "endColumn": 66,
+                    "endOffset": 7892
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 66,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7897,
+                    "endColumn": 57,
+                    "endOffset": 7950
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 57,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7955,
+                    "endColumn": 54,
+                    "endOffset": 8005
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3278,
+                        "endColumn": 54,
+                        "endOffset": 3328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8010,
+                    "endColumn": 52,
+                    "endOffset": 8058
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3384,
+                        "endColumn": 52,
+                        "endOffset": 3432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8063,
+                    "endColumn": 50,
+                    "endOffset": 8109
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3333,
+                        "endColumn": 50,
+                        "endOffset": 3379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8114,
+                    "endColumn": 44,
+                    "endOffset": 8154
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3233,
+                        "endColumn": 44,
+                        "endOffset": 3273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8159,
+                    "endColumn": 56,
+                    "endOffset": 8211
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1297,
+                        "endColumn": 56,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8216,
+                    "endColumn": 53,
+                    "endOffset": 8265
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2869,
+                        "endColumn": 53,
+                        "endOffset": 2918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8270,
+                    "endColumn": 70,
+                    "endOffset": 8336
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 833,
+                        "endColumn": 70,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8341,
+                    "endColumn": 81,
+                    "endOffset": 8418
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 904,
+                        "endColumn": 81,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8423,
+                    "endColumn": 72,
+                    "endOffset": 8491
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 72,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8496,
+                    "endColumn": 71,
+                    "endOffset": 8563
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 71,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8568,
+                    "endColumn": 81,
+                    "endOffset": 8645
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endColumn": 81,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8650,
+                    "endColumn": 82,
+                    "endOffset": 8728
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1213,
+                        "endColumn": 82,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8733,
+                    "endColumn": 60,
+                    "endOffset": 8789
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endColumn": 60,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 8794,
+                    "endColumn": 65,
+                    "endOffset": 8855
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 65,
+                        "endOffset": 419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 8860,
+                    "endColumn": 53,
+                    "endOffset": 8909
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 53,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 8914,
+                    "endColumn": 61,
+                    "endOffset": 8971
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 61,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 8976,
+                    "endColumn": 68,
+                    "endOffset": 9040
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 68,
+                        "endOffset": 237
+                    }
+                }
+            }
+        ]
+    }
+]

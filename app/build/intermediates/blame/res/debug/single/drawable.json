@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_separator_transparent.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable\\list_separator_transparent.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable\\mic.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listgrad.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable\\listgrad.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_separator_dark.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable\\list_separator_dark.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cursor.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable\\cursor.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_separator_light.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable\\list_separator_light.xml"
+    }
+]

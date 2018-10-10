@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="activity_setting">Поставке</string>
+    <string name="alias_clock">сат,аларм,тајмер,штоперица</string>
+    <string name="alias_contacts">kontakt,ljudi,osobe,контакт,људи,особе</string>
+    <string name="alias_mail">pošta,mejl,imejl,email,мејл,имејл,пошта</string>
+    <string name="alias_market">market,store,app center,prodavnica,маркет,продавница,апликације</string>
+    <string name="alias_messaging">text,sms,mms,порука,смс,ммс,слање</string>
+    <string name="alias_phone">dial,biraj,zovi,pozovi,šalji,poruka,telefon,бирај,зови,позови,шаљи,порука,телефон</string>
+    <string name="alias_web">internet,web,browser,pregledač,pretraživač,интернет,веб,прегледач,претраживач</string>
+    <string name="aliases_name">Псеудоними</string>
+    <string name="app_name">КИС покретач</string>
+    <string name="application_not_found">Опс… Не могу да покренем ту апликацију.</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> захтева ажурирање апликације Android Wear."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не може да се покрене ако не ажурирате апликацију Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Ажурирајте Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> захтева једну Google Play услугу која тренутно није доступна или више њих. Контактирајте програмера да бисте добили помоћ."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Омогући Google Play услуге"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> неће функционисати ако не омогућите Google Play услуге."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Омогућавање Google Play услуга"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Захтева <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Преузми Google Play услуге"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> не може да се покрене без Google Play услуга, које недостају на телефону."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> не може да се покрене без Google Play услуга, које недостају на таблету."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Преузимање Google Play услуга"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Наведени налог не постоји на овом уређају. Одаберите други налог."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Неважећи налог"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Апликација захтева да Google Play услуге буду омогућене."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"За повезивање са Google Play услугама потребна је веза за пренос података."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Грешка на мрежи"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Апликација захтева ажурирање Google Play услуга."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Грешка Google Play услуга"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Дошло је до грешке при пријављивању на наведени налог. Изаберите други налог."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Пријављивање није успело"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Непознат проблем са Google Play услугама."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> користи Google Play услуге, које уређај не подржава. Контактирајте произвођача да бисте добили помоћ."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play услуге"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Ажурирај"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не може да се покрене ако не ажурирате Google Play услуге."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Ажурирање Google Play услуга"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не може да се покрене без Google Play услуга, које се тренутно ажурирају."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Google Play услуге се ажурирају"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Отвори на телефону"</string>
+    <string name="contacts_name">Контакти</string>
+    <string name="excluded_app_list_erased"/>
+    <string name="favorites_erased">Омиљене обрисане.</string>
+    <string name="history_erased">Историјат обрисан.</string>
+    <string name="history_mode_name">Режим историјата</string>
+    <string name="icons_hide_desc">Корисно на спорим уређајима</string>
+    <string name="icons_hide_main">Сакриј иконе апликација</string>
+    <string name="icons_pack_default_name">Системске иконе</string>
+    <string name="icons_pack_name">Иконе теме (ADW.Launcher)</string>
+    <string name="items_title">%d ставки</string>
+    <string name="keyboard_name">Приказуј тастатуру по покретању</string>
+    <string name="main_clear">Очисти поље претраге</string>
+    <string name="main_kiss">Приказуј списак апликација и омиљено</string>
+    <string name="main_kiss_back">Приказуј историјат</string>
+    <string name="main_menu">Мени</string>
+    <string name="menu_app_details">Подаци о апликацији</string>
+    <string name="menu_app_hibernate">Хибернирај</string>
+    <string name="menu_app_uninstall">Уклони</string>
+    <string name="menu_contact_copy_phone">Копирај број телефона</string>
+    <string name="menu_favorites_add">Додај у омиљене</string>
+    <string name="menu_phone_create">Направи контакт</string>
+    <string name="menu_remove">Уклони из историјата</string>
+    <string name="menu_settings">Поставке уређаја</string>
+    <string name="menu_wallpaper">Ажурирај тапет</string>
+    <string name="no_favorites">Још нема омиљених. Додајте их дугим додиром.</string>
+    <string name="phone_name">Бројеви телефона</string>
+    <string name="portrait_title">Присили усправни режим</string>
+    <string name="removed_item">Уклоњено</string>
+    <string name="reset_name">Ресетуј историјат</string>
+    <string name="restart_name">Поново покрени КИС</string>
+    <string name="root_mode_error">Не могу да добијем корене привилегије.</string>
+    <string name="root_mode_name">Корени режим</string>
+    <string name="search_name">Веб претрага</string>
+    <string name="settings_airplane">Авионски режим</string>
+    <string name="settings_applications">Апликације</string>
+    <string name="settings_battery">Батерија</string>
+    <string name="settings_connectivity">Повезивање</string>
+    <string name="settings_device_info">Подаци о уређају</string>
+    <string name="settings_name">Поставке уређаја</string>
+    <string name="settings_nfc">НФЦ</string>
+    <string name="settings_prefix">"Поставка: "</string>
+    <string name="settings_tethering">Тетеринг</string>
+    <string name="shortcuts_name">Пречице</string>
+    <string name="spellcheck_name">Омогући проверу правописа</string>
+    <string name="stub_application">Име апликације</string>
+    <string name="stub_contact">Име контакта</string>
+    <string name="stub_contact_phone">+381 12 34 56 78</string>
+    <string name="stub_phone">Позови +381 12 34 56 78</string>
+    <string name="stub_setting">Име поставке</string>
+    <string name="stub_toggle">Поставка за измену</string>
+    <string name="title_advanced">Напредне поставке</string>
+    <string name="title_history">Историјат</string>
+    <string name="title_providers">Избор услуга</string>
+    <string name="title_ui">Корисничко сучеље</string>
+    <string name="toast_favorites_added">%s је додат/а у омиљене</string>
+    <string name="toggle_autorotate">Ауторотација</string>
+    <string name="toggle_bluetooth">Блутут</string>
+    <string name="toggle_data">Мрежни интернет</string>
+    <string name="toggle_silent">Тихо</string>
+    <string name="toggle_sync">Синхронизација</string>
+    <string name="toggle_torch">Бакља</string>
+    <string name="toggle_wifi">Бежични</string>
+    <string name="toggles_name">Прекидачи (бежични, блутут…)</string>
+    <string name="toggles_off">%s деактивиран/а</string>
+    <string name="toggles_on">%s активиран/а</string>
+    <string name="toggles_prefix">"Прекидач: "</string>
+    <string name="ui_empty_1">Почните претрагом било чега</string>
+    <string name="ui_empty_1_sub">Апликације, контакти, поставке…</string>
+    <string name="ui_empty_2">Увек видите ваш историјат</string>
+    <string name="ui_empty_2_sub">За бржи приступ</string>
+    <string name="ui_empty_3">Брзи приступ најчешће коришћеним апликацијама</string>
+    <string name="ui_empty_3_sub">КИС покретач учи ваше навике</string>
+    <string name="ui_item_contact_hint_call">Позови</string>
+    <string name="ui_item_contact_hint_message">Порука</string>
+    <string name="ui_item_phone">Позови “%s”</string>
+    <string name="ui_item_search">%1$s Тражите “%2$s”</string>
+    <string name="ui_search_hint">Тражите апликације, контакте…</string>
+</resources>

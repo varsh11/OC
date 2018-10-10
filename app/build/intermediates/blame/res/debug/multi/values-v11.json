@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-v11\\themes.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 145
+                    }
+                }
+            }
+        ]
+    }
+]

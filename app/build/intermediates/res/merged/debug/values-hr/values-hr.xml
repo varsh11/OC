@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="activity_setting">KISS postavke</string>
+    <string name="alias_clock">sat,alarm,mjerač vremena,štoperica</string>
+    <string name="alias_contacts">kontakti,osobe,odnosi</string>
+    <string name="alias_mail">pošta,e-pošta</string>
+    <string name="alias_market">tržnica,trgovina,centar za aplikacije</string>
+    <string name="alias_messaging">tekstualna poruka,sastavi,sms,mms,poruke</string>
+    <string name="alias_phone">biraj,poziv,telefon</string>
+    <string name="alias_web">internet,mreža,preglednik</string>
+    <string name="aliases_name">Alijasi</string>
+    <string name="app_name">KISS launcher</string>
+    <string name="application_not_found">Ups… nije moguće pokrenuti tu aplikaciju.</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> zahtijeva ažuriranje aplikacije Android Wear."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati ako ne ažurirate aplikaciju Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Ažurirajte Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> zahtijeva jednu ili više Google Play usluga koje trenutačno nisu dostupne. Za pomoć se obratite razvojnom programeru."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Omogući usluge za Google Play"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati ako ne omogućite Google Play usluge."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Omogući usluge za Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Zahtijeva aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Preuzmi usluge za Google Play"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem telefonu."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem tabletu."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Preuzmi usluge za Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Navedeni račun ne postoji na ovom uređaju. Odaberite neki drugi račun."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Nevažeći račun"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Aplikacija zahtijeva da Usluge za Google Play budu omogućene."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Potrebna je podatkovna veza za povezivanje s uslugama Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Mrežna pogreška"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Aplikacija zahtijeva ažuriranje Usluga za Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Pogreška Usluga za Google Play"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Pogreška prilikom prijave na navedeni račun. Odaberite neki drugi račun."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Prijava nije uspjela"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Nepoznata poteškoća s uslugama za Google Play."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> radi uz pomoć Google Play usluge koje vaš uređaj ne podržava. Za pomoć se obratite proizvođaču."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Usluge za Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Ažuriranje"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati ako ne ažurirate Google Play usluge."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Ažuriraj usluge za Google Play"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati bez Google Play usluga koje se trenutačno ažuriraju."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Ažuriranje Google Play usluga u tijeku"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Otvaranje na telefonu"</string>
+    <string name="contacts_name">Kontakti</string>
+    <string name="history_erased">Povjest izbrisana.</string>
+    <string name="keyboard_name">Pokaži tipkovnicu</string>
+    <string name="main_clear">Očisti tekst</string>
+    <string name="main_kiss">Pokaži favorite i listu aplikacija</string>
+    <string name="main_kiss_back">Pokaži povjest</string>
+    <string name="main_menu">Meni</string>
+    <string name="menu_app_details">Informacije o aplikaciji</string>
+    <string name="menu_app_hibernate">Hiberniraj</string>
+    <string name="menu_app_uninstall">Ukloni aplikaciju</string>
+    <string name="menu_contact_copy_phone">Kopiraj telefonski broj</string>
+    <string name="menu_remove">Ukloni iz povijesti</string>
+    <string name="menu_settings">Postavke uređaja</string>
+    <string name="menu_wallpaper">Postavi pozadinsku sliku</string>
+    <string name="no_favorites">Favoriti još ne postoje. Koristite aplikaciju da se pojave.</string>
+    <string name="phone_name">Telefon</string>
+    <string name="removed_item">Uklonjeno</string>
+    <string name="reset_name">Resetiraj povjest</string>
+    <string name="root_mode_desc">Omogući root značajke ako su moguće (hiberniranje aplikacija)</string>
+    <string name="root_mode_error">Nemoguće dobiti root privilegije.</string>
+    <string name="root_mode_name">Root način rada</string>
+    <string name="search_name">Google pretraživanje</string>
+    <string name="settings_airplane">Način rada u zrakoplovu</string>
+    <string name="settings_applications">Aplikacije</string>
+    <string name="settings_battery">Baterija</string>
+    <string name="settings_connectivity">Povezivanje</string>
+    <string name="settings_device_info">Informacije o uređaju</string>
+    <string name="settings_name">Postavke</string>
+    <string name="settings_prefix">"Postavka: "</string>
+    <string name="spellcheck_name">Omogući provjeru pravopisa</string>
+    <string name="stub_application">Ime aplikacije</string>
+    <string name="stub_contact">Ime kontakta</string>
+    <string name="stub_contact_phone">+330 12 34 56 78</string>
+    <string name="stub_phone">Pozovi +330 12 34 56 78</string>
+    <string name="stub_setting">Ime postavke</string>
+    <string name="stub_toggle">Postavljanje prekidača</string>
+    <string name="theme_name">Tema</string>
+    <string name="title_advanced">Napredne postavke</string>
+    <string name="title_history">Povjest</string>
+    <string name="title_providers">Odaberi poslužitelja</string>
+    <string name="title_ui">Korisničko sučelje</string>
+    <string name="toast_hibernate_completed">%s uspješno poslana na hiberniranje, pokrenite ponovo za pokretanje.</string>
+    <string name="toast_hibernate_error">%s nije uspješno poslana na hibernaciju.</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_data">Mrežni podaci</string>
+    <string name="toggle_silent">Tiho</string>
+    <string name="toggle_torch">Baklja</string>
+    <string name="toggle_wifi">Wifi</string>
+    <string name="toggles_name">Uključi/isključi</string>
+    <string name="toggles_prefix">"Omogući: "</string>
+    <string name="ui_empty_1">Samo počmite tipkati, KISS automatski pretražuje</string>
+    <string name="ui_empty_1_sub">Aplikacije, kontakti, postavke, …</string>
+    <string name="ui_empty_2">Uvijek prikaži povjest pretraživanja</string>
+    <string name="ui_empty_2_sub">Za brži pristup</string>
+    <string name="ui_empty_3">Brzi pristup do najkorištenijih aplikacija</string>
+    <string name="ui_empty_3_sub">KISS uči iz vaših navika</string>
+    <string name="ui_item_contact_hint_call">Poziv</string>
+    <string name="ui_item_contact_hint_message">Poruka</string>
+    <string name="ui_item_phone">Nazovi “%s”</string>
+    <string name="ui_item_search">%1$s Potraži “%2$s”</string>
+    <string name="ui_search_hint">Pretraži aplikacije, kontakte, …</string>
+</resources>

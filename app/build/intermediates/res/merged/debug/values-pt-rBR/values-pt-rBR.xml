@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="activity_setting">Configurações do launcher</string>
+    <string name="alias_clock">relógio, alarme, timer, cronômetro</string>
+    <string name="alias_contacts">contatos, pessoas, relacionamentos</string>
+    <string name="alias_messaging">Mensagem de texto, compor, sms, mms, mensagem</string>
+    <string name="alias_phone">discar, ligar, telefone</string>
+    <string name="alias_web">Internet, web, navegador</string>
+    <string name="aliases_name">Apelidos</string>
+    <string name="application_not_found">Ops… não é possível iniciar esse app.</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> exige uma atualização para o app Android Wear."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> só funciona com uma atualização para o app Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Atualizar o Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> exige um ou mais Google Play Services que não estão disponíveis no momento. Entre em contato com o desenvolvedor para receber assistência."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Ativar o Google Play Services"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> só funciona com o Google Play Services ativado."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Ative o Google Play Services"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Solicitado por <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Instalar o Google Play Services"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> não funciona sem o Google Play Services, o qual não está instalado no seu smartphone."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> não funciona sem o Google Play Services, o qual não está instalado no seu tablet."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Instale o Google Play Services"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"A conta especificada não existe no dispositivo. Escolha outra conta."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Conta inválida"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Um app requer a ativação do Google Play Services."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"É necessária uma conexão de dados para conectar ao Google Play Services."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Erro na rede"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Um app requer a atualização do Google Play Services."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Erro do Google Play Services"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Erro ao fazer login na conta especificada. Escolha outra conta."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Falha de login"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Problema desconhecido com o Google Play Services."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> depende do Google Play Services, o qual não é compatível com seu dispositivo. Entre em contato com o fabricante para receber assistência."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Play Services"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Atualizar"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> só funciona com uma versão atualizada do Google Play Services."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Atualize o Google Play Services"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> não funciona sem o Google Play Services, o qual está sendo atualizado no momento."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Google Play Services em atualização"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Abrir no smartphone"</string>
+    <string name="contacts_name">Contatos</string>
+    <string name="history_erased">Histórico limpo.</string>
+    <string name="history_hide_desc">Ocultar histórico na tela inicial</string>
+    <string name="history_hide_name">Interface minimalista</string>
+    <string name="history_onclick_name">Interface minimalista: Mostrar histórico ao clicar</string>
+    <string name="icons_hide_desc">Habilitar em dispositivos lentos</string>
+    <string name="icons_hide_main">Ocultar ícones dos apps</string>
+    <string name="keyboard_name">Exibir teclado</string>
+    <string name="main_clear">Limpar campo de pesquisa</string>
+    <string name="main_kiss">Exibir favoritos e lista de apps</string>
+    <string name="main_kiss_back">Exibir histórico</string>
+    <string name="main_menu">Menu</string>
+    <string name="menu_app_details">Informações do app</string>
+    <string name="menu_app_hibernate">Hibernar</string>
+    <string name="menu_app_uninstall">Desinstalar</string>
+    <string name="menu_contact_copy_phone">Copiar o número de telefone</string>
+    <string name="menu_phone_create">Criar contato</string>
+    <string name="menu_remove">Apagar do histórico</string>
+    <string name="menu_settings">Configurações do dispositivo</string>
+    <string name="menu_wallpaper">Trocar plano de fundo</string>
+    <string name="no_favorites">Ainda não há favoritos. Adicione-os com um clique longo.</string>
+    <string name="order_apps_name">Ordem da lista de apps</string>
+    <string name="phone_name">Telefone</string>
+    <string name="portrait_title">Forçar modo de retrato</string>
+    <string name="removed_item">Removido</string>
+    <string name="reset_name">Limpar histórico</string>
+    <string name="reset_warn">Você realmente quer limpar histórico?</string>
+    <string name="root_mode_desc">Habilitar recursos de root, se disponível (para hibernar aplicações)</string>
+    <string name="root_mode_error">Não é possível obter privilégios de root.</string>
+    <string name="root_mode_name">Modo root</string>
+    <string name="search_name">Pesquisar no Google</string>
+    <string name="settings_airplane">Modo avião</string>
+    <string name="settings_applications">Apps</string>
+    <string name="settings_battery">Bateria</string>
+    <string name="settings_connectivity">Conectividade</string>
+    <string name="settings_device_info">Informações do dispositivo</string>
+    <string name="settings_name">Configurações</string>
+    <string name="settings_prefix">"Configuração: "</string>
+    <string name="shortcuts_name">Atalhos</string>
+    <string name="spellcheck_name">Habilitar verificação ortográfica</string>
+    <string name="stub_application">Nome do aplicativo</string>
+    <string name="stub_contact">Nome do contato</string>
+    <string name="stub_contact_phone">+330 12 34 56 78</string>
+    <string name="stub_phone">Ligar +330 12 34 56 78</string>
+    <string name="stub_setting">Nome da configuração</string>
+    <string name="theme_name">Tema</string>
+    <string name="title_advanced">Configurações avançadas</string>
+    <string name="title_history">Histórico</string>
+    <string name="title_ui">Interface de usuário</string>
+    <string name="toast_hibernate_error">%s não hibernado com êxito.</string>
+    <string name="toggle_autorotate">Autorrotação</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_silent">Silencioso</string>
+    <string name="toggle_sync">Sincronização</string>
+    <string name="toggle_wifi">Wi-Fi</string>
+    <string name="toggles_off">%s desativado</string>
+    <string name="toggles_on">%s ativado</string>
+    <string name="ui_empty_1">Comece pesquisando por algo</string>
+    <string name="ui_empty_1_sub">Aplicativos, contatos, configurações, …</string>
+    <string name="ui_empty_2">Veja sempre seu histórico</string>
+    <string name="ui_empty_2_sub">Acesso rápido</string>
+    <string name="ui_empty_3">Acesso rápido aos aplicativos mais usados</string>
+    <string name="ui_empty_3_sub">O KISS aprende com os seus hábitos</string>
+    <string name="ui_item_contact_hint_call">Ligar</string>
+    <string name="ui_item_contact_hint_message">Mensagem</string>
+    <string name="ui_item_search">%1$s Pesquisar por \"%2$s\"</string>
+    <string name="ui_search_hint">Pesquisar apps, contatos, …</string>
+</resources>

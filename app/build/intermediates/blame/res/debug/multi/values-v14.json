@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-v14\\themes.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\values-v14\\themes.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

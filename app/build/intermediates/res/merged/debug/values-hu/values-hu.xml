@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="activity_setting">KISS beállításai</string>
+    <string name="alias_clock">óra,ébresztő,időzítő,stopperóra</string>
+    <string name="alias_contacts">névjegyek,emberek,kapcsolatok</string>
+    <string name="alias_mail">levelezés,email</string>
+    <string name="alias_market">áruház,üzlet,app központ</string>
+    <string name="alias_messaging">szöveges üzenet,üzenetírás,sms,mms,üzenés</string>
+    <string name="alias_phone">tárcsázás,hívás,telefon</string>
+    <string name="alias_web">internet,web,böngésző</string>
+    <string name="aliases_name">Álnevek</string>
+    <string name="app_name">KISS indító</string>
+    <string name="application_not_found">Hopsz… nem sikerült elindítani az alkalmazást.</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás az Android Wear alkalmazás frissítését igényli."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak az Android Wear alkalmazás frissítését követően fog működni."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Az Android Wear frissítése"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazásnak szüksége van egy vagy több, jelenleg nem elérhető Google Play-szolgáltatásra. További segítségért vegye fel a kapcsolatot a fejlesztővel."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Play-szolgáltatások aktiválása"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor működik, ha Ön engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Google Play-szolgáltatások aktiválása"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> kérésére"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Play-szolgáltatások telepítése"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a telefonjáról."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a táblagépéről."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Play-szolgáltatások telepítése"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"A megadott fiók nem létezik ezen az eszközön. Kérjük, válasszon másik fiókot."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Érvénytelen fiók"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Egy alkalmazás Google Play-szolgáltatások engedélyezését kéri."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"A Google Play-szolgáltatásokhoz történő kapcsolódáshoz adatkapcsolat szükséges."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Hálózati hiba"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Egy alkalmazás Google Play-szolgáltatások frissítését kéri."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play-szolgáltatások – hiba"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Hiba a megadott fiókba való bejelentkezéskor. Kérjük, válasszon egy másik fiókot."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Sikertelen bejelentkezés"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Ismeretlen hiba a Google Play-szolgáltatásokban."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> használatához olyan Google Play-szolgáltatásokra lesz szüksége, amelyeket eszköze nem támogat. Ha segítségre van szüksége, lépjen kapcsolatba a gyártóval."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play-szolgáltatások"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Frissítés"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Play-szolgáltatások frissítése"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek éppen frissülnek."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"A Google Play-szolgáltatások frissülnek"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Megnyitás a telefonon"</string>
+    <string name="contacts_name">Névjegyek</string>
+    <string name="enable_app">Újonnan telepített app-ok mutatása az előzmények között</string>
+    <string name="enable_phone">Bejövő hívások mutatása az előzmények között</string>
+    <string name="enable_sms">Bejövő SMS-ek mutatása az előzmények között</string>
+    <string name="excluded_app_list_added">App elrejtve. Ismét megjeleníthető a beállításokon keresztül</string>
+    <string name="excluded_app_list_erased">Az elrejtett alkalmazások listája törölve.</string>
+    <string name="favorites_erased">Kedvencek kitörölve.</string>
+    <string name="freeze_history_name">Előzmények megállítása</string>
+    <string name="freeze_history_warn">Biztosan meg szeretnéd állítani az előzményeket? Az előzményeid mostantól változatlanok maradnak.</string>
+    <string name="history_erased">Előzmények törölve.</string>
+    <string name="history_hide_desc">Előzmények és bevezető képernyő elrejtése</string>
+    <string name="history_hide_name">Egyszerüsített kezelőfelület</string>
+    <string name="history_onclick_name">Egyszerűsített kezelőfelület: Előzmények érintésre</string>
+    <string name="icons_hide_desc">Hasznos lehet lassabb eszközökön</string>
+    <string name="icons_hide_main">App ikonok elrejtése</string>
+    <string name="icons_pack_default_name">Rendszer ikonok</string>
+    <string name="icons_pack_name">Ikon témák (ADW.Launcher téma)</string>
+    <string name="items_title">%d elem</string>
+    <string name="keyboard_name">Billentyűzet mutatása induláskor</string>
+    <string name="main_clear">Kereső szöveg törlése</string>
+    <string name="main_kiss">Kedvencek és app lista megjelenítése</string>
+    <string name="main_kiss_back">Előzmények megjelenítése</string>
+    <string name="main_menu">Menü</string>
+    <string name="menu_app_details">App adatai</string>
+    <string name="menu_app_hibernate">Hibernálás</string>
+    <string name="menu_app_uninstall">Eltávolítás</string>
+    <string name="menu_contact_copy_phone">Telefonszám másolása</string>
+    <string name="menu_exclude">App kizárása a KISSből</string>
+    <string name="menu_favorites_add">Hozzáadás a kedvencekhez</string>
+    <string name="menu_phone_create">Névjegy létrehozása</string>
+    <string name="menu_remove">Törlés az előzményekből</string>
+    <string name="menu_settings">Eszköz beállításai</string>
+    <string name="menu_wallpaper">Háttérkép változtatása</string>
+    <string name="no_favorites">Nincsenek kedvencek. App hosszú tartása a hozzáadáshoz.</string>
+    <string name="order_apps_name">App lista rendezése</string>
+    <string name="phone_name">Telefonszámok</string>
+    <string name="portrait_title">Mindíg álló elrendezés</string>
+    <string name="removed_item">Törölve</string>
+    <string name="reset_excluded_apps_name">Láthatatlan app-ok visszaállítása</string>
+    <string name="reset_excluded_apps_warn">Biztos vagy benne, hogy visszaállítasz minden elrejtett app-ot?</string>
+    <string name="reset_favorites_name">Kedvenceid listájának törlése</string>
+    <string name="reset_favorites_warn">Tényleg törölni szeretnéd a kedvenceidet?</string>
+    <string name="reset_name">KISS előzmények törlése</string>
+    <string name="reset_warn">Tényleg törölni akarod az előzményeket?</string>
+    <string name="restart_desc">Megoldhatja a témákkal vagy az új, meg nem jelenő névjegyekkel való gondokat</string>
+    <string name="restart_name">KISS újraindítása</string>
+    <string name="restart_warn">Biztosan újraindítod a KISS indítót? Ha a KISS nem az alapértelmezett indító, akkor a KISS egyszerűen leáll.</string>
+    <string name="root_mode_desc">Ha elérhető, használja az app-ok hibernálásához</string>
+    <string name="root_mode_error">Nem sikerült root jogot szerezni.</string>
+    <string name="root_mode_name">Root mód</string>
+    <string name="search_desc">Keresés engedélyezése ezekkel: Google, DuckDuckGo, Bing stb.</string>
+    <string name="search_name">Web keresés</string>
+    <string name="settings_airplane">Repülőgép üzemmód</string>
+    <string name="settings_applications">Alkalmazások</string>
+    <string name="settings_battery">Akkumulátor</string>
+    <string name="settings_connectivity">Kapcsolódás</string>
+    <string name="settings_device_info">Eszköz-információk</string>
+    <string name="settings_name">Eszköz beállítások</string>
+    <string name="settings_nfc">NFC</string>
+    <string name="settings_prefix">"Beállítás: "</string>
+    <string name="settings_tethering">Tethering</string>
+    <string name="shortcut_added">Parancsikon hozzáadva.</string>
+    <string name="shortcuts_name">Parancs rövidítések</string>
+    <string name="spellcheck_name">Helyesírás-ellenőrző engedélyezése</string>
+    <string name="stub_application">App neve</string>
+    <string name="stub_contact">Névjegyzékben szereplő név</string>
+    <string name="stub_contact_phone">+330 12 34 56 78</string>
+    <string name="stub_phone">Hívás: +330 12 34 56 78</string>
+    <string name="stub_setting">Beállítás neve</string>
+    <string name="stub_toggle">Kapcsoló</string>
+    <string name="theme_name">Téma felület</string>
+    <string name="title_advanced">Haladó beállítások</string>
+    <string name="title_history">Előzmények</string>
+    <string name="title_providers">Források beállításai</string>
+    <string name="title_ui">Kezelőfelület</string>
+    <string name="toast_favorites_added">a(z) %s hozzáadva a kedvencekhez</string>
+    <string name="toast_hibernate_completed">%s sikeresen hibernálva lett, a következő indításkor visszatér.</string>
+    <string name="toast_hibernate_error">%s hibernálása sikertelen volt.</string>
+    <string name="toggle_autorotate">Automatikus forgás</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_data">Adatkapcsolat</string>
+    <string name="toggle_silent">Néma</string>
+    <string name="toggle_sync">Szinkronizálás</string>
+    <string name="toggle_torch">Vaku</string>
+    <string name="toggle_wifi">Wifi</string>
+    <string name="toggles_name">Kapcsolók (Wi-Fi, Bluetooth, …)</string>
+    <string name="toggles_off">%s kikapcsolva</string>
+    <string name="toggles_on">%s bekapcsolva</string>
+    <string name="toggles_prefix">"Kapcsolás: "</string>
+    <string name="ui_empty_1">Keress rá bármire</string>
+    <string name="ui_empty_1_sub">App-ok, névjegyek, beállítások, …</string>
+    <string name="ui_empty_2">Mindig láthatod az előzményeidet</string>
+    <string name="ui_empty_2_sub">Gyorsan elérhető</string>
+    <string name="ui_empty_3">Gyors hozzáférés a gyakran használt app-okhoz</string>
+    <string name="ui_empty_3_sub">A KISS indító tanul a szokásaidból</string>
+    <string name="ui_excluded_apps">Láthatatlan app-ok megtekintése, szerkesztése</string>
+    <string name="ui_excluded_apps_dialog_title">Vedd le a kijelölést azokról az app-okról, amiket láthatóvá akarsz tenni</string>
+    <string name="ui_excluded_apps_not_found">Nincsenek láthatatlan app-ok</string>
+    <string name="ui_item_contact_hint_call">Hívás</string>
+    <string name="ui_item_contact_hint_message">Üzenet</string>
+    <string name="ui_item_phone">“%s” hívása</string>
+    <string name="ui_item_search">%1$s “%2$s” keresése</string>
+    <string name="ui_search_hint">App-ok, névjegyek, beállítások keresése, …</string>
+</resources>

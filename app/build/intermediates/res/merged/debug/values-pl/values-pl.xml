@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="activity_setting">Ustawienia KISS</string>
+    <string name="alias_clock">zegar,alarm,stoper</string>
+    <string name="alias_contacts">kontakty,ludzie,znajomi</string>
+    <string name="alias_mail">poczta,email</string>
+    <string name="alias_market">market,sklep</string>
+    <string name="alias_messaging">wiadomość,sms,mms</string>
+    <string name="alias_phone">zadzwoń do,połącz z,telefonuj do</string>
+    <string name="alias_web">internet,sieć,przeglądarka</string>
+    <string name="aliases_name">Aliasy</string>
+    <string name="app_name">KISS launcher</string>
+    <string name="application_not_found">Ups… nie udało się uruchomić tej aplikacji.</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> wymaga zaktualizowania aplikacji Android Wear."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zaktualizujesz aplikacji Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Zaktualizuj Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> wymaga co najmniej jednej usługi Google Play, która jest obecnie niedostępna. Skontaktuj się z programistą, by uzyskać pomoc."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Włącz Usługi Google Play"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie włączysz Usług Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Włącz Usługi Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Żądanie z aplikacji <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Pobierz Usługi Google Play"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, których nie masz na telefonie."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, których nie masz na tablecie."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Pobierz Usługi Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Podanego konta nie ma na tym urządzeniu. Wybierz inne konto."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Nieprawidłowe konto"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Aplikacja wymaga włączenia Usług Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Korzystanie z usług Google Play wymaga połączenia z internetem."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Błąd sieci"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Aplikacja wymaga zaktualizowania Usług Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Błąd Usług Google Play"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Błąd podczas logowania na określone konto. Wybierz inne."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Błąd logowania"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Nieznany problem z Usługami Google Play."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> wymaga Usług Google Play, które nie są obsługiwane przez Twoje urządzenie. Skontaktuj się z producentem, by uzyskać pomoc."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Usługi Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Aktualizuj"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zaktualizujesz Usług Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Aktualizuj Usługi Google Play"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, które są obecnie aktualizowane."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Trwa aktualizowanie Usług Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Otwórz na telefonie"</string>
+    <string name="contacts_name">Kontakty</string>
+    <string name="enable_app">Wypełnij historię z zainstalowanych aplikacji</string>
+    <string name="enable_phone">Wypełnij historię połączeniami telefonicznymi</string>
+    <string name="enable_sms">Wypełnij historię wiadomościami tekstowymi</string>
+    <string name="excluded_app_list_added">Aplikacja wykluczona z KISS. Zresetuj poprzez ustawienia KISS</string>
+    <string name="excluded_app_list_erased">Wyczyszczono listę wykluczonych aplikacji.</string>
+    <string name="favorites_erased">Ulubione wyczyszczone.</string>
+    <string name="history_erased">Historia skasowana.</string>
+    <string name="history_hide_desc">Ukryj historię i ekran wstępu</string>
+    <string name="history_hide_name">Minimalistyczny interfejs</string>
+    <string name="history_onclick_name">Minimalistyczne UI: Pokaż historię po dotknięciu</string>
+    <string name="icons_hide_desc">Włącz na wolnych urządzeniach</string>
+    <string name="icons_hide_main">Ukryj ikony aplikacji</string>
+    <string name="keyboard_name">Wyświetl klawiaturę</string>
+    <string name="main_clear">Wyczyść pole wyszukiwania</string>
+    <string name="main_kiss">Wyświetl ulubione i listę aplikacji</string>
+    <string name="main_kiss_back">Wyświetl historię</string>
+    <string name="main_menu">Menu</string>
+    <string name="menu_app_details">Informacje o aplikacji</string>
+    <string name="menu_app_hibernate">Hibernuj</string>
+    <string name="menu_app_uninstall">Odinstaluj</string>
+    <string name="menu_contact_copy_phone">Kopiuj numer telefonu</string>
+    <string name="menu_exclude">Wyklucz aplikację z KISS</string>
+    <string name="menu_favorites_add">Dodaj do ulubionych</string>
+    <string name="menu_phone_create">Stwórz kontakt</string>
+    <string name="menu_remove">Usuń z historii</string>
+    <string name="menu_settings">Ustawienia Urządzenia</string>
+    <string name="menu_wallpaper">Zaktualizuj tło</string>
+    <string name="no_favorites">Brak ulubionych. Naciśnij i przytrzymaj aby je dodać.</string>
+    <string name="order_apps_name">Kolejność listy aplikacji</string>
+    <string name="phone_name">Telefon</string>
+    <string name="portrait_title">Wymuś tryb portretowy</string>
+    <string name="removed_item">Usunięto</string>
+    <string name="reset_excluded_apps_name">Zresetuj listę odrzuconych aplikacji</string>
+    <string name="reset_excluded_apps_warn">Na pewno chcesz zresetować listę wykluczonych aplikacji?</string>
+    <string name="reset_favorites_name">Wyczyść ulubione</string>
+    <string name="reset_favorites_warn">Na pewno chcesz wyczyścić ulubione?</string>
+    <string name="reset_name">Zresetuj historię</string>
+    <string name="reset_warn">Na pewno chcesz wyczyścić swoją historię?</string>
+    <string name="root_mode_desc">Włącz dodatki root jeśli dostępne (aby zahibernować aplikacje)</string>
+    <string name="root_mode_error">Nie można uzyskać przywilejów root.</string>
+    <string name="root_mode_name">Tryb root</string>
+    <string name="search_name">Wyszukiwanie Google</string>
+    <string name="settings_airplane">Tryb samolotowy</string>
+    <string name="settings_applications">Aplikacje</string>
+    <string name="settings_battery">Bateria</string>
+    <string name="settings_connectivity">Łączność</string>
+    <string name="settings_device_info">Informacje o urządzeniu</string>
+    <string name="settings_name">Ustawienia</string>
+    <string name="settings_prefix">"Ustawienie: "</string>
+    <string name="shortcuts_name">Skróty</string>
+    <string name="spellcheck_name">Włącz sprawdzanie pisowni</string>
+    <string name="stub_application">Nazwa aplikacji</string>
+    <string name="stub_contact">Nazwa kontaktu</string>
+    <string name="stub_contact_phone">+330 12 34 56 78</string>
+    <string name="stub_phone">Połącz z +330 12 34 56 78</string>
+    <string name="stub_setting">Nazwa ustawienia</string>
+    <string name="stub_toggle">Ustawienie do przełączenia</string>
+    <string name="theme_name">Motyw</string>
+    <string name="title_advanced">Ustawienia Zaawansowane</string>
+    <string name="title_history">Historia</string>
+    <string name="title_providers">Wybór Dostawcy</string>
+    <string name="title_ui">Interfejs Użytkownika</string>
+    <string name="toast_favorites_added">%s został dodany do ulubionych</string>
+    <string name="toast_hibernate_completed">%s pomyślnie zahibernowany, włącz ponownie by obudzić.</string>
+    <string name="toast_hibernate_error">Nie udało się zahibernować %s.</string>
+    <string name="toggle_autorotate">Autoobrót</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_data">Dane sieci</string>
+    <string name="toggle_silent">Wyciszony</string>
+    <string name="toggle_sync">Synchronizacja</string>
+    <string name="toggle_torch">Lampa</string>
+    <string name="toggle_wifi">Wifi</string>
+    <string name="toggles_name">Przełączniki</string>
+    <string name="toggles_off">%s dezaktywowany</string>
+    <string name="toggles_on">%s aktywowany</string>
+    <string name="toggles_prefix">"Przełącznik: "</string>
+    <string name="ui_empty_1">Zacznij szukać czegokolwiek</string>
+    <string name="ui_empty_1_sub">Aplikacje, kontakty, ustawienia, …</string>
+    <string name="ui_empty_2">Zawsze wyświetlaj historię</string>
+    <string name="ui_empty_2_sub">Dla szybkiego dostępu</string>
+    <string name="ui_empty_3">Szybki dostęp do najczęściej używanych aplikacji</string>
+    <string name="ui_empty_3_sub">Launcher KISS poznaje twoje zwyczaje</string>
+    <string name="ui_item_contact_hint_call">Zadzwoń</string>
+    <string name="ui_item_contact_hint_message">Wiadomość</string>
+    <string name="ui_item_phone">Połącz z “%s”</string>
+    <string name="ui_item_search">%1$s Wyszukaj “%2$s”</string>
+    <string name="ui_search_hint">Wyszukaj aplikacje, kontakty, …</string>
+</resources>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_app.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\item_app.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_togglebutton.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\ui_togglebutton.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_setting.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\item_setting.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_empty.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\main_empty.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_shortcut.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\item_shortcut.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_toggle.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\item_toggle.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_kissbar.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\main_kissbar.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_search.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\item_search.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_phone.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\layout\\item_phone.xml"
+    }
+]

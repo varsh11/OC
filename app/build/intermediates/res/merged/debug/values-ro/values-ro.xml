@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="historyModeEntries">
+        <item>Cele mai recente primele</item>
+        <item>Cele mai frecvent utilizate primele</item>
+    </string-array>
+    <string-array name="historyModeValues">
+        <item>recency</item>
+        <item>frecency</item>
+    </string-array>
+    <string-array name="sortAppListEntries">
+        <item>De la A la Z</item>
+        <item>De la Z la A</item>
+    </string-array>
+    <string-array name="sortAppListValues">
+        <item>alphabetical</item>
+        <item>invertedAlphabetical</item>
+    </string-array>
+    <string-array name="themesEntries">
+        <item>Tema deschisa (implicit)</item>
+        <item>Tema semi-transparenta</item>
+        <item>Tema transparenta</item>
+        <item>Tema intunecata</item>
+        <item>Tema intunecata semi-transparenta</item>
+        <item>Tema intunecata transparenta</item>
+    </string-array>
+    <string-array name="themesValues">
+        <item>light</item>
+        <item>semi-transparent</item>
+        <item>transparent</item>
+        <item>dark</item>
+        <item>semi-transparent-dark</item>
+        <item>transparent-dark</item>
+    </string-array>
+    <string name="activity_setting">Setari KISS</string>
+    <string name="alias_clock">ceas,alarma,timer,cronometru</string>
+    <string name="alias_contacts">contacte,persoane,relatii</string>
+    <string name="alias_mail">mail,email,posta</string>
+    <string name="alias_market">magazin,aplicatii</string>
+    <string name="alias_messaging">mesaj text,compune,sms,mms,mesagerie</string>
+    <string name="alias_phone">formeaza,suna,telefon</string>
+    <string name="alias_web">internet,web,browser,navigare</string>
+    <string name="aliases_name">Aliasuri</string>
+    <string name="app_name">Lansator KISS</string>
+    <string name="application_not_found">Opa… nu am putut lansa acea aplicatie.</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necesită o actualizare a aplicației Android Wear."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula decât dacă actualizați aplicația Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualizați Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necesită unul sau mai multe servicii Google Play, care momentan nu sunt disponibile. Contactați dezvoltatorul pentru asistență."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Activați Servicii Google Play"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va funcționa decât dacă activați serviciile Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Activați Servicii Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Solicitată de <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Obţineţi Servicii Google Play"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care lipsesc de pe telefon."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care lipsesc de pe tabletă."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Descărcaţi Servicii Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Contul menționat nu există pe acest dispozitiv. Alegeți alt cont."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Cont nevalid"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"O aplicație necesită activarea serviciilor Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Eroare de reţea"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"O aplicație necesită o actualizare pentru serviciile Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Eroare a serviciilor Google Play"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Eroare la conectarea la contul specificat. Alegeți alt cont."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Conectarea nu a reușit"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Problemă necunoscută privind Servicii Google Play."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> se bazează pe serviciile Google Play, care nu sunt acceptate de dispozitiv. Contactați producătorul pentru asistență."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Servicii Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Actualizaţi"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula decât dacă actualizați serviciile Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Actualizaţi Servicii Google Play"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nu va rula fără serviciile Google Play, care momentan se actualizează."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Se actualizează serviciile Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Deschideți pe telefon"</string>
+    <string name="contacts_name">Contacte</string>
+    <string name="enable_app">Adauga aplicatiile noi instalate la istoric</string>
+    <string name="enable_favorites_bar">Arata favoritele deasupra barei de cautare</string>
+    <string name="enable_phone">Adauga apelurile telefonice la istoric</string>
+    <string name="enable_sms">Adauga mesajele text la istoric</string>
+    <string name="exclude_favorites">Exclude aplicatiile favorite din istoric</string>
+    <string name="excluded_app_list_added">Aplicatie exclusa in KISS. Anuleaza asta din setarile KISS</string>
+    <string name="excluded_app_list_erased">Lista de aplicatii excluse a fost stearsa.</string>
+    <string name="favorites_erased">Favorite sterse.</string>
+    <string name="favorites_hide">interfata minimala: Ascunde bara de favorite</string>
+    <string name="freeze_history_name">Ingheata istoric</string>
+    <string name="freeze_history_warn">Sigur vrei sa ingheti istoricul si sa dezactivezi actualizarile ulterioare? Istoricul nu se va mai schimba.</string>
+    <string name="history_erased">Istoric sters.</string>
+    <string name="history_hide_desc">Ascunde istoricul si ecranul initial</string>
+    <string name="history_hide_name">Interfata minima</string>
+    <string name="history_mode_desc">Selecteaza modul in care este populat istoric</string>
+    <string name="history_mode_name">Mod afisare istoric</string>
+    <string name="history_onclick_name">Interfata minima: Arata istoric la atingere</string>
+    <string name="icons_hide_desc">Util pentru dispozitivele mai slabe</string>
+    <string name="icons_hide_main">Ascunde iconitele aplicatiilor</string>
+    <string name="icons_pack_default_name">Iconite din sistem</string>
+    <string name="icons_pack_name">Tema iconite (tema ADW.Launcher)</string>
+    <string name="items_title">%d elemente</string>
+    <string name="keyboard_name">Arata tastatura la deschidere</string>
+    <string name="main_clear">Curata campul de cautare</string>
+    <string name="main_kiss">Arata favoritele si lista de aplicatii</string>
+    <string name="main_kiss_back">Arata istoric</string>
+    <string name="main_menu">Meniu</string>
+    <string name="menu_app_details">Info aplicatie</string>
+    <string name="menu_app_hibernate">Hibernare</string>
+    <string name="menu_app_uninstall">Dezinstaleaza</string>
+    <string name="menu_contact_copy_phone">Copiaza numar de telefon</string>
+    <string name="menu_exclude">Exclude din lansator</string>
+    <string name="menu_favorites_add">Adauga la favorite</string>
+    <string name="menu_phone_create">Creeaza contact</string>
+    <string name="menu_remove">Elimina din istoric</string>
+    <string name="menu_settings">Setari dispozitiv</string>
+    <string name="menu_shortcut_remove">Sterge scurtatura</string>
+    <string name="menu_wallpaper">Actualizare imagine fundal</string>
+    <string name="no_favorites">Fara favorite. Atinge lung pentru a adauga.</string>
+    <string name="order_apps_name">Ordine sortare lista aplicatii</string>
+    <string name="phone_name">Numere de telefon</string>
+    <string name="portrait_title">Forteaza modul portret</string>
+    <string name="removed_item">Eliminat</string>
+    <string name="reset_excluded_apps_name">Curata lista de aplicatii excluse</string>
+    <string name="reset_excluded_apps_warn">Chiar doriti curatarea listei de aplicatii excluse?</string>
+    <string name="reset_favorites_name">"Curata lista de  favorite"</string>
+    <string name="reset_favorites_warn">Chiar doriti curatarea favoritelor?</string>
+    <string name="reset_name">Curata istoric KISS</string>
+    <string name="reset_warn">Chiar doriti curatarea istoricului?</string>
+    <string name="restart_desc">Rezolva problemele cu tema sau contacte ce nu apar</string>
+    <string name="restart_name">Reporneste KISS</string>
+    <string name="restart_warn">Sigur vrei sa restartezi KISS? Atunci cand nu este lansatorul implicit KISS doar se va opri.</string>
+    <string name="root_mode_desc">Daca este disponibil foloseste-l pentru hibernarea aplicatiilor</string>
+    <string name="root_mode_error">Nu s-au putut primi privilegii root.</string>
+    <string name="root_mode_name">Mod root</string>
+    <string name="search_desc">Activeaza cautarea cu Google, DuckDuckGo, Bing etc.</string>
+    <string name="search_name">Cautare pe internet</string>
+    <string name="search_providers_title">Selecteaza furnizorii de cautari pe internet</string>
+    <string name="settings_airplane">Mod avion</string>
+    <string name="settings_applications">Aplicatii</string>
+    <string name="settings_battery">Baterie</string>
+    <string name="settings_connectivity">Conectivitate</string>
+    <string name="settings_device_info">Informatii dispozitiv</string>
+    <string name="settings_name">Setari dispozitiv</string>
+    <string name="settings_nfc">NFC</string>
+    <string name="settings_prefix">"Setari: "</string>
+    <string name="settings_tethering">Partajare conexiune</string>
+    <string name="shortcut_added">Scurtatura adaugata la KISS.</string>
+    <string name="shortcuts_name">Scurtaturi</string>
+    <string name="spellcheck_name">Activeaza verificarea ortografica</string>
+    <string name="stub_application">Nume aplicatie</string>
+    <string name="stub_contact">Nume contact</string>
+    <string name="stub_contact_phone">+40 12 345 678</string>
+    <string name="stub_phone">Suna la +40 12 345 678</string>
+    <string name="stub_setting">Nume setare</string>
+    <string name="stub_toggle">Setare de comutat</string>
+    <string name="theme_name">Tema interfata</string>
+    <string name="title_advanced">Setari avansate</string>
+    <string name="title_history">Istoric</string>
+    <string name="title_providers">Selectie furnizori</string>
+    <string name="title_ui">Interfata</string>
+    <string name="toast_favorites_added">%s a fost adaugat la favorite</string>
+    <string name="toast_hibernate_completed">%s hibernata, reporneste pentru a trezi.</string>
+    <string name="toast_hibernate_error">%s nu a fost hibernata.</string>
+    <string name="toggle_autorotate">Rotatie</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_data">Date mobile</string>
+    <string name="toggle_silent">Silentios</string>
+    <string name="toggle_sync">Sincronizare</string>
+    <string name="toggle_torch">Lanterna</string>
+    <string name="toggle_wifi">Wi-Fi</string>
+    <string name="toggles_name">Comutatoare (Wi-Fi, Bluetooth, …)</string>
+    <string name="toggles_off">%s dezactivat</string>
+    <string name="toggles_on">%s activat</string>
+    <string name="toggles_prefix">"Comutatori: "</string>
+    <string name="ui_empty_1">Porneste cautarea pentru orice</string>
+    <string name="ui_empty_1_sub">Aplicatii, contacte, setari, …</string>
+    <string name="ui_empty_2">Arata mereu istoricul</string>
+    <string name="ui_empty_2_sub">Pentru acces rapid</string>
+    <string name="ui_empty_3">Acces rapid la aplicatiile folosite des</string>
+    <string name="ui_empty_3_sub">Lansatorul KISS invata din obiceiurile tale</string>
+    <string name="ui_excluded_apps">Vizualizeaza / editeaza aplicatiile excluse</string>
+    <string name="ui_excluded_apps_dialog_title">Debifeaza aplicatiile pe care vrei sa le incluzi</string>
+    <string name="ui_excluded_apps_not_found">Nici o aplicatie nu a fost exclusa</string>
+    <string name="ui_item_contact_hint_call">Suna</string>
+    <string name="ui_item_contact_hint_message">Mesaj</string>
+    <string name="ui_item_phone">Suna \"%s\"</string>
+    <string name="ui_item_search">%1$s Cauta \"%2$s\"</string>
+    <string name="ui_search_hint">Cauta aplicatii, contacte, …</string>
+</resources>

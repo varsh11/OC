@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="activity_setting">Ρυθμίσεις KISS</string>
+    <string name="alias_clock">ρολόι,ξυπνητήρι,χρονόμετρο,αντίστροφη μέτρηση</string>
+    <string name="alias_contacts">επαφές,άνθρωποι,σχέσεις</string>
+    <string name="alias_mail">μαιλ,εμαιλ</string>
+    <string name="alias_market">αγορά,κατάστημα,κέντρο εφαρμογών</string>
+    <string name="alias_web">διαδίκτυο, ιστός, περιηγητής</string>
+    <string name="aliases_name">Ψευδώνυμα</string>
+    <string name="app_name">KISS launcher</string>
+    <string name="application_not_found">Όπα, δεν ανοίγει η εφαρμογή.</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> απαιτεί την ενημέρωση της εφαρμογής Android Wear."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί εάν δεν ενημερώσετε την εφαρμογή Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Ενημέρωση Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> απαιτεί μία ή περισσότερες υπηρεσίες του Google Play που δεν είναι διαθέσιμες προς το παρόν. Επικοινωνήστε με τον προγραμματιστή για βοήθεια."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Ενεργοπ. υπηρεσιών Google Play"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις Υπηρεσίες Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Ενεργοποίηση υπηρεσιών Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Υποβλήθηκε αίτημα από την εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Λήψη υπηρεσιών Google Play"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί χωρίς τις Υπηρεσίες Google Play, οι οποίες λείπουν από το τηλέφωνό σας."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί χωρίς τις Υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Λήψη υπηρεσιών Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Ο συγκεκριμένος λογαριασμός δεν υπάρχει σε αυτήν τη συσκευή. Επιλέξτε έναν διαφορετικό λογαριασμό."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Μη έγκυρος λογαριασμός"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Μια εφαρμογή απαιτεί την ενεργοποίηση των Υπηρεσιών Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Απαιτείται σύνδεση δεδομένων για να συνδεθείτε με τις Υπηρεσίες Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Σφάλμα δικτύου"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Μια εφαρμογή απαιτεί την ενημέρωση των Υπηρεσιών Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Σφάλμα Υπηρεσιών Google Play"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Σφάλμα κατά τη σύνδεση στον συγκεκριμένο λογαριασμό. Επιλέξτε έναν διαφορετικό λογαριασμό."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Η σύνδεση απέτυχε"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Άγνωστο πρόβλημα με τις υπηρεσίες Google Play."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> βασίζεται στις Υπηρεσίες Google Play, οι οποίες δεν υποστηρίζονται από τη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για βοήθεια."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Υπηρεσίες Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Ενημέρωση"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> θα εκτελεστεί αφού ενημερώσετε τις Υπηρεσίες Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Ενημέρωση υπηρεσιών Google Play"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί χωρίς τις Υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Ενημέρωση των Υπηρεσιών Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Άνοιγμα στο τηλέφωνο"</string>
+    <string name="contacts_name">Επαφές</string>
+    <string name="enable_app">Εμφάνιση πρόσφατα εγκατεστημένων εφαρμογών στο ιστορικό</string>
+    <string name="enable_phone">Εμφάνιση εισερχόμενων κλήσεων στο ιστορικό</string>
+    <string name="enable_sms">Εμφάνιση εισερχόμενων SMS στο ιστορικό</string>
+    <string name="excluded_app_list_added">Η εφαρμογή εξαιρέθηκε. Επαναφορά μέσω των ρυθμίσεων</string>
+    <string name="excluded_app_list_erased">Διαγραφή εξαιρεμένων εφαρμογών</string>
+    <string name="favorites_erased">Τα αγαπημένα διαγράφηκαν.</string>
+    <string name="history_erased">Το ιστορικό διαγράφηκε.</string>
+    <string name="history_hide_desc">Απόκρυψη ιστορικού και αρχικής οθόνης</string>
+    <string name="history_hide_name">Μινιμαλιστική διεπαφή</string>
+    <string name="history_onclick_name">Μινιμαλιστική διεπαφή: Εμφάνιση ιστορικού μέσω αφής</string>
+    <string name="icons_hide_desc">Χρήσιμο σε αργές συσκευές</string>
+    <string name="icons_hide_main">Απόκρυψη εικονιδίων εφαρμογών</string>
+    <string name="icons_pack_default_name">Εικονίδια συστήματος</string>
+    <string name="icons_pack_name">Θέματα εικονιδίων (ADW.Launcher θέματα)</string>
+    <string name="keyboard_name">Εμφάνιση πληκτρολογίου στην έναρξη</string>
+    <string name="main_clear">Καθαρισμός πεδίου αναζήτησης</string>
+    <string name="main_kiss">Εμφάνιση αγαπημένων και λίστας εφαρμογών</string>
+    <string name="main_kiss_back">Εμφάνιση ιστορικού</string>
+    <string name="main_menu">Μενού</string>
+    <string name="menu_app_details">Λεπτομέρειες εφαρμογής</string>
+    <string name="menu_app_hibernate">Αδρανοποίηση</string>
+    <string name="menu_app_uninstall">Απεγκατάσταση</string>
+    <string name="menu_contact_copy_phone">Αντιγραφή αριθμού</string>
+    <string name="menu_exclude">Εξαίρεση εφαρμογής</string>
+    <string name="menu_favorites_add">Προσθήκη στα αγαπημένα</string>
+    <string name="menu_phone_create">Δημιουργία επαφής</string>
+    <string name="menu_remove">Αφαιρέθηκε από το ιστορικό</string>
+    <string name="menu_settings">Ρυθμίσεις Συσκευής</string>
+    <string name="menu_wallpaper">Ενημέρωση ταπετσαρίας</string>
+    <string name="no_favorites">Δεν υπάρχουν αγαπημένα. Προσθέστε μέσω του μενού</string>
+    <string name="order_apps_name">Ταξινόμηση λίστας εφαρμογών</string>
+    <string name="phone_name">Αριθμοί τηλεφώνου</string>
+    <string name="portrait_title">Εξαναγκασμός λειτουργίας πορτρέτου</string>
+    <string name="removed_item">Αφαιρέθηκε</string>
+    <string name="reset_excluded_apps_name">Διαγραφή της λίστας εξαιρουμένων εφαρμογών</string>
+    <string name="reset_excluded_apps_warn">Θέλετε πραγματικά να διαγράψετε τη λίστα;</string>
+    <string name="reset_favorites_name">Διαγραφή τη λίστας αγαπημένων</string>
+    <string name="reset_favorites_warn">Θέλετε πραγματικά να διαγράψετε τα αγαπημένα σας;</string>
+    <string name="reset_name">Διαγραφή ιστορικού KISS</string>
+    <string name="reset_warn">Θέλετε πραγματικά να διαγραψετε το ιστορικό σας;</string>
+    <string name="restart_name">Επανεκκίνηση KISS</string>
+    <string name="root_mode_error">Αποτυχία απόκτησης δικαιωμάτων διαχειριστή.</string>
+    <string name="root_mode_name">Λειτουργία υπερχρήστη</string>
+    <string name="search_name">Αναζήτηση στο Web</string>
+    <string name="settings_airplane">Λειτουργία πτήσης</string>
+    <string name="settings_applications">Εφαρμογές</string>
+    <string name="settings_battery">Μπαταρία</string>
+    <string name="settings_connectivity">Συνδεσιμότητα</string>
+    <string name="settings_device_info">Πληροφορίες συσκευής</string>
+    <string name="settings_name">Ρυθμίσεις Συσκευής</string>
+    <string name="settings_nfc">NFC</string>
+    <string name="settings_prefix">Ρύθμιση:</string>
+    <string name="shortcut_added">Η συντόμευση προστέθηκε στο KISS.</string>
+    <string name="shortcuts_name">Συντομευσεις</string>
+    <string name="spellcheck_name">Ενεργοποίηση ορθογραφικού ελέγχου</string>
+    <string name="stub_application">Ονομασία εφαρμογής</string>
+    <string name="stub_contact">Όνομα επαφής</string>
+    <string name="stub_contact_phone">+30 123 4567839</string>
+    <string name="stub_phone">Κλήση +30 123 456789</string>
+    <string name="stub_setting">Ονομασία ρύθμισης</string>
+    <string name="theme_name">Θέμα</string>
+    <string name="title_advanced">Ρυθμίσεις για προχωρημένους</string>
+    <string name="title_history">Ιστορικό</string>
+    <string name="title_providers">Επιλογή Πηγών</string>
+    <string name="title_ui">Διεπαφή Χρήστη</string>
+    <string name="toast_favorites_added">%s προστέθηκε στα αγαπημένα</string>
+    <string name="toast_hibernate_completed">%s αδρανοποιήθηκε επιτυχώς, επανέναρξη για ενεργοποίηση</string>
+    <string name="toast_hibernate_error">%s δεν αδρανοποιήθηκε επιτυχώς.</string>
+    <string name="toggle_autorotate">Αυτόματη περιστροφή</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_data">Δεδομένα δικτύου</string>
+    <string name="toggle_silent">Σίγαση</string>
+    <string name="toggle_sync">Συγχρονισμός</string>
+    <string name="toggle_torch">Φακός</string>
+    <string name="toggle_wifi">Ασύρματο δίκτυο</string>
+    <string name="toggles_name">Διακόπτες (Wi-Fi, Bluetooth, …)</string>
+    <string name="toggles_off">%s απενεργοποιήθηκε</string>
+    <string name="toggles_on">%s ενεργοποιήθηκε</string>
+    <string name="toggles_prefix">"Διακόπτης: "</string>
+    <string name="ui_empty_1">Αναζήτησε κάτι</string>
+    <string name="ui_empty_1_sub">Εφαρμογές, επαφές, ρυθμίσεις, …</string>
+    <string name="ui_empty_2">Βλέπε πάντα το ιστορικό σου</string>
+    <string name="ui_empty_2_sub">Για γρήγορη πρόσβαση</string>
+    <string name="ui_empty_3">Γρήγορη πρόσβαση στις αγαπημένες σου εφαρμογές</string>
+    <string name="ui_empty_3_sub">το KISS μαθαίνει από τις συνήθειές σου</string>
+    <string name="ui_item_contact_hint_call">Κλήση</string>
+    <string name="ui_item_contact_hint_message">Μήνυμα</string>
+    <string name="ui_item_phone">Κλήση “%s”</string>
+    <string name="ui_item_search">%1$s Αναζήτηση “%2$s”</string>
+    <string name="ui_search_hint">Αναζήτηση εφαρμογών, επαφών…</string>
+</resources>

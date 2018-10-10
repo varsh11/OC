@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toggle_rotation.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\toggle_rotation.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_message.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\ic_message.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_battery.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\setting_battery.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clear_dark.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\clear_dark.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zerostate_search.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\zerostate_search.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zerostate_burger.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\zerostate_burger.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_white.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_white.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\setting_info.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toggle_wifi.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\toggle_wifi.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\charu.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\charu.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toggle_sync.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\toggle_sync.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_nfc.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\setting_nfc.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toggle_data.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\toggle_data.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_apps.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\setting_apps.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\call.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\call.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dots.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\dots.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toggle_torch.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\toggle_torch.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toggle_silent.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\toggle_silent.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_airplane.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\setting_airplane.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_tethering.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\setting_tethering.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_phone.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\toggle_bluetooth.png",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\drawable-xhdpi\\toggle_bluetooth.png"
+    }
+]

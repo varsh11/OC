@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="sortAppListEntries">
+        <item>Von A nach Z</item>
+        <item>Von Z nach A</item>
+    </string-array>
+    <string-array name="sortAppListValues">
+        <item>alphabetical</item>
+        <item>invertedAlphabetical</item>
+    </string-array>
+    <string-array name="themesEntries">
+        <item>Hell (Standard)</item>
+        <item>Semi-transparent</item>
+        <item>Transparent</item>
+        <item>Dunkel</item>
+        <item>Semi-transparent Dunkel</item>
+        <item>Transparent Dunkel</item>
+    </string-array>
+    <string-array name="themesValues">
+        <item>light</item>
+        <item>semi-transparent</item>
+        <item>transparent</item>
+        <item>dark</item>
+        <item>semi-transparent-dark</item>
+        <item>transparent-dark</item>
+    </string-array>
+    <string name="activity_setting">KISS-Einstellungen</string>
+    <string name="alias_clock">uhr,alarm,timer,stoppuhr,wecker</string>
+    <string name="alias_contacts">Kontakte,Leute,Personen,Beziehungen</string>
+    <string name="alias_mail">mail,email,e-mail,nachrichten,post,brief</string>
+    <string name="alias_market">market,store,app-center,appcenter,anwendungen,appstore,app-store,laden,appzentrale,app-zentrale</string>
+    <string name="alias_messaging">textnachricht,nachrichten,sms,mms</string>
+    <string name="alias_phone">anrufen,wählen,telefon</string>
+    <string name="alias_web">internet,web,browser,netz,navigator</string>
+    <string name="aliases_name">Aliase/Kürzel</string>
+    <string name="app_name">KISS Launcher</string>
+    <string name="application_not_found">Ups … Anwendung konnte nicht gestartet werden.</string>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"Für <ns1:g id="APP_NAME">%1$s</ns1:g> ist eine Aktualisierung der Android Wear App erforderlich."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktualisierung der Android Wear App."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wear aktualisieren"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> erfordert einen oder mehrere Google Play-Dienste, die derzeit nicht verfügbar sind. Bitte wenden Sie sich an den Entwickler, um Unterstützung zu erhalten."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Google Play-Dienste aktivieren"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Google Play-Dienste aktivieren"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Angefordert von <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Google Play-Dienste installieren"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf Ihrem Smartphone nicht installiert sind."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf Ihrem Tablet nicht installiert sind."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Google Play-Dienste installieren"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Das angegebene Konto ist auf diesem Gerät nicht vorhanden. Bitte wählen Sie ein anderes Konto aus."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Ungültiges Konto"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"App erfordert die Aktivierung der Google Play-Dienste"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Um eine Verbindung zu den Google Play-Diensten herzustellen, ist eine Datenverbindung erforderlich."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Netzwerkfehler"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"App erfordert ein Update der Google Play-Dienste"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Fehler bei Zugriff auf Google Play-Dienste"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Fehler beim Anmelden im angegebenen Konto. Bitte wählen Sie ein anderes Konto aus."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Anmeldung fehlgeschlagen"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Unbekanntes Problem mit Google Play-Diensten"</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich. Diese werden auf Ihrem Gerät jedoch nicht unterstützt. Wenden Sie sich für weitere Informationen an den Hersteller."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play-Dienste"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Aktualisieren"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> wird nur ausgeführt, wenn Sie die Google Play-Dienste aktualisieren."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Google Play-Dienste aktualisieren"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die gerade aktualisiert werden."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Google Play-Dienste werden aktualisiert"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Auf Telefon öffnen"</string>
+    <string name="contacts_name">Kontakte</string>
+    <string name="enable_app">Neu installierte Apps im Verlauf anzeigen</string>
+    <string name="enable_favorites_bar">Favoriten über dem Suchfeld anzeigen</string>
+    <string name="enable_phone">Eingehende Anrufe im Verlauf anzeigen</string>
+    <string name="enable_sms">Eingehende Textnachrichten im Verlauf anzeigen</string>
+    <string name="exclude_favorites">Favoriten im Verlauf verstecken</string>
+    <string name="excluded_app_list_added">App ausgeblendet. Kann in den Einstellungen wiederhergestellt werden</string>
+    <string name="excluded_app_list_erased">Liste der ausgeblendeten Apps geleert.</string>
+    <string name="favorites_erased">Favoriten entfernt.</string>
+    <string name="favorites_hide">Reduzierte Overfläche: Favoriten ausblenden</string>
+    <string name="freeze_history_name">Verlauf einfrieren</string>
+    <string name="freeze_history_warn">Sind Sich sicher, dass Sie den Verlauf einfrieren und keine zukünftigen Änderungen zulassen wollen? Der Verlauf wird sich nicht mehr ändern.</string>
+    <string name="history_erased">Verlauf geleert.</string>
+    <string name="history_hide_desc">Verlauf und Startbildschirm ausblenden</string>
+    <string name="history_hide_name">Reduzierte Oberfläche</string>
+    <string name="history_onclick_name">Reduzierte Oberfläche: Berühren für Verlauf</string>
+    <string name="icons_hide_desc">Nützlich für langsame Geräte</string>
+    <string name="icons_hide_main">Anwendungssymbole ausblenden</string>
+    <string name="icons_pack_default_name">Systemsymbole</string>
+    <string name="icons_pack_name">Symbolthemen (ADW.Launcher)</string>
+    <string name="items_title">%d Einträge</string>
+    <string name="keyboard_name">Tastatur beim Start einblenden</string>
+    <string name="main_clear">Suchfeld leeren</string>
+    <string name="main_kiss">Favoriten und Anwendungsliste anzeigen</string>
+    <string name="main_kiss_back">Verlauf anzeigen</string>
+    <string name="main_menu">Menü</string>
+    <string name="menu_app_details">App-Details</string>
+    <string name="menu_app_hibernate">Schlafenlegen</string>
+    <string name="menu_app_uninstall">Deinstallieren</string>
+    <string name="menu_contact_copy_phone">Telefonnummer kopieren</string>
+    <string name="menu_exclude">App ausblenden</string>
+    <string name="menu_favorites_add">Zur Favoritenleiste hinzufügen</string>
+    <string name="menu_phone_create">Kontakt erstellen</string>
+    <string name="menu_remove">Aus Verlauf löschen</string>
+    <string name="menu_settings">Geräteeinstellungen</string>
+    <string name="menu_wallpaper">Hintergrundbild wählen</string>
+    <string name="no_favorites">Keine Favoriten vorhanden. Einträge durch langes Drücken hinzufügen.</string>
+    <string name="order_apps_name">Sortierreihenfolge der Anwendungsliste</string>
+    <string name="phone_name">Telefonnummern anrufen</string>
+    <string name="portrait_title">Hochformat erzwingen</string>
+    <string name="removed_item">Eintrag gelöscht</string>
+    <string name="reset_excluded_apps_name">Liste der ausgeblendeten Apps leeren</string>
+    <string name="reset_excluded_apps_warn">Sind Sie sicher, dass Sie die Liste der ausgeblendeten Apps leeren möchten?</string>
+    <string name="reset_favorites_name">Favoriten zurücksetzen</string>
+    <string name="reset_favorites_warn">Wollen Sie wirklich alle Einträge aus der Favoritenleiste entfernen?</string>
+    <string name="reset_name">Verlauf leeren</string>
+    <string name="reset_warn">Wollen Sie wirklich Ihren gesamten Verlauf leeren?</string>
+    <string name="restart_desc">Reparieren: Themenprobleme / neue Kontakte werden nicht angezeigt</string>
+    <string name="restart_name">KISS neu starten</string>
+    <string name="restart_warn">Wollen Sie KISS wirklich neu starten? Wenn KISS nicht Ihr Standard-Anwendungsstarter ist, wird er einfach beendet.</string>
+    <string name="root_mode_desc">Nach Möglichkeit verwenden, um Apps schlafen zu legen</string>
+    <string name="root_mode_error">Root-Rechte konnten nicht erlangt werden.</string>
+    <string name="root_mode_name">Root-Modus</string>
+    <string name="search_desc">Suche über Google, DuckDuckGo, Bing usw. aktivieren</string>
+    <string name="search_name">Web-Suche</string>
+    <string name="search_providers_title">Anbieter für Web-Suche auswählen</string>
+    <string name="settings_airplane">Flugmodus</string>
+    <string name="settings_applications">Anwendungen</string>
+    <string name="settings_battery">Akku</string>
+    <string name="settings_connectivity">Netzwerkverbindung</string>
+    <string name="settings_device_info">Geräteinformationen</string>
+    <string name="settings_name">Geräteeinstellungen</string>
+    <string name="settings_nfc">NFC</string>
+    <string name="settings_prefix">"Einstellung: "</string>
+    <string name="settings_tethering">Tethering</string>
+    <string name="shortcut_added">Verknüpfung zu KISS hinzugefügt.</string>
+    <string name="shortcuts_name">Verknüpfungen</string>
+    <string name="spellcheck_name">Rechtschreibprüfung aktivieren</string>
+    <string name="stub_application">Anwendungsname</string>
+    <string name="stub_contact">Name des Kontaktes</string>
+    <string name="stub_contact_phone">+330 12 34 56 78</string>
+    <string name="stub_phone">+330 12 34 56 78 anrufen</string>
+    <string name="stub_setting">Name der Einstellung</string>
+    <string name="stub_toggle">Umschaltbare Einstellungsmöglichkeit</string>
+    <string name="theme_name">Oberflächenthema</string>
+    <string name="title_advanced">Erweiterte Einstellungen</string>
+    <string name="title_history">Verlauf</string>
+    <string name="title_providers">Anbieterauswahl</string>
+    <string name="title_ui">Oberfläche</string>
+    <string name="toast_favorites_added">%s zu den Favoriten hinzugefügt</string>
+    <string name="toast_hibernate_completed">„%s“ schlafen gelegt. App starten, um sie aufzuwecken.</string>
+    <string name="toast_hibernate_error">„%s“ konnte nicht schlafen gelegt werden.</string>
+    <string name="toggle_autorotate">Automatisch Drehen</string>
+    <string name="toggle_bluetooth">Bluetooth</string>
+    <string name="toggle_data">Mobilfunkdaten</string>
+    <string name="toggle_silent">Lautlos</string>
+    <string name="toggle_sync">Synchronisation</string>
+    <string name="toggle_torch">Taschenlampe</string>
+    <string name="toggle_wifi">WLAN</string>
+    <string name="toggles_name">Umschalter (WLAN, Bluetooth, …)</string>
+    <string name="toggles_off">%s ausgeschaltet</string>
+    <string name="toggles_on">%s eingeschaltet</string>
+    <string name="toggles_prefix">"Umschalten: "</string>
+    <string name="ui_empty_1">Suche nach allem starten</string>
+    <string name="ui_empty_1_sub">Apps, Kontakte, Einstellungen, …</string>
+    <string name="ui_empty_2">Immer Ihren Verlauf sehen</string>
+    <string name="ui_empty_2_sub">Für schnellen Zugriff</string>
+    <string name="ui_empty_3">Schneller Zugriff auf die meistgenutzten Anwendungen</string>
+    <string name="ui_empty_3_sub">KISS Launcher lernt von Ihren Gewohnheiten</string>
+    <string name="ui_excluded_apps">Ausgeblendete Apps ansehen/bearbeiten</string>
+    <string name="ui_excluded_apps_dialog_title">Apps abwählen, die nicht mehr ausgeblendet werden sollen</string>
+    <string name="ui_excluded_apps_not_found">Es wurden keine Apps ausgeblendet</string>
+    <string name="ui_item_contact_hint_call">Anrufen</string>
+    <string name="ui_item_contact_hint_message">Nachricht</string>
+    <string name="ui_item_phone">„%s‟ anrufen</string>
+    <string name="ui_item_search">Auf %1$s nach „%2$s‟ suchen</string>
+    <string name="ui_search_hint">Nach Apps, Kontakten, … suchen</string>
+</resources>

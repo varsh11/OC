@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_item_default.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\menu\\menu_item_default.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_item_contact.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\menu\\menu_item_contact.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_item_phone.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\menu\\menu_item_phone.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_item_favorite_add.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\menu\\menu_item_favorite_add.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_item_app.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\menu\\menu_item_app.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_item_app_root.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\menu\\menu_item_app_root.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_item_app_uninstall.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\menu\\menu_item_app_uninstall.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_settings.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\menu\\menu_settings.xml"
+    },
+    {
+        "merged": "B:\\SGP\\sem_5\\OC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_item_shortcut.xml",
+        "source": "B:\\SGP\\sem_5\\OC\\app\\src\\main\\res\\menu\\menu_item_shortcut.xml"
+    }
+]
