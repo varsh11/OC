@@ -1,4 +1,4 @@
-OC
+One Click Launcher
 ======
 OC is developed by Mr. Varsh Patel and Ms. Drashti Vashi of Charotar University of Science and Technology as  a part
 of their SGP Sem-5, Under guidance of their faculty from Computer Engineering department Ms. Rutu Ataliya.
